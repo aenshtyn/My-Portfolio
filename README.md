@@ -1,8 +1,8 @@
-# Instagram Clone
+# Aenshtyns Portfolio
 
 ### Live site
 
-[Portfolio](https://aenshtyn.herokuapp.com/)
+[Aenshtyns Portfolio](https://aenshtyn.herokuapp.com/)
 
 
 #### Built by
